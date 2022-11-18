@@ -28,20 +28,20 @@ const projectsList = [
     id: uuidv4(),
     name: " App clima",
     previewUrl:
-      "/images/3.jpg",
+      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/3_gzn64e.jpg",
     description:
       "Pagina que permite al usuario buscar un lugar y conocer su clima",
-    githubLink: "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/3_gzn64e.jpg",
+    githubLink: "https://github.com/Kevin31esder/React-clima",
     websiteUrl: "https://glowing-naiad-606494.netlify.app/",
   },
   {
     id: uuidv4(),
     name: "Landing Page",
     previewUrl:
-      "images/4.jpg",
+      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/4_urtyia.jpg",
     description:
       "Una simple pagina de landing pagina que fue mi primer Projecto en React",
-    githubLink: "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/4_urtyia.jpg",
+    githubLink: "https://github.com/Kevin31esder/Landing-Page",
     websiteUrl: "https://inspiring-gnome-165b0d.netlify.app/",
   },
   {
