@@ -9,7 +9,7 @@ const projectsList = [
   {
     id: uuidv4(),
     name: "Tienda de electronica",
-    previewUrl: '/images/1.jpg',
+    previewUrl: 'https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803973/1_u2iobl.jpg',
     description: 'Tienda electronica que permite realizar varias compras y poder pagar.',
     githubLink: "https://github.com/Kevin31esder/Tienda-Electronica",
     websiteUrl: "https://tienda-electronica123.herokuapp.com/",
@@ -18,7 +18,7 @@ const projectsList = [
     id: uuidv4(),
     name: "Pokedex",
     previewUrl:
-      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803973/1_u2iobl.jpg",
+      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/6_mv7kt4.jpg",
     description:
       "Buscador de pokemon donde podra ver las estadisticas de su pokemon favorito.",
     githubLink: "https://github.com/Kevin31esder/Pokedex",
@@ -31,7 +31,7 @@ const projectsList = [
       "/images/3.jpg",
     description:
       "Pagina que permite al usuario buscar un lugar y conocer su clima",
-    githubLink: "https://github.com/Kevin31esder/React-clima",
+    githubLink: "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/3_gzn64e.jpg",
     websiteUrl: "https://glowing-naiad-606494.netlify.app/",
   },
   {
@@ -41,14 +41,14 @@ const projectsList = [
       "images/4.jpg",
     description:
       "Una simple pagina de landing pagina que fue mi primer Projecto en React",
-    githubLink: "https://github.com/Kevin31esder/Landing-Page",
+    githubLink: "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803972/4_urtyia.jpg",
     websiteUrl: "https://inspiring-gnome-165b0d.netlify.app/",
   },
   {
     id: uuidv4(),
     name: "Pagina de videoJuegos",
     previewUrl:
-      "/images/5.jpg",
+      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803973/5_ckf9zl.jpg",
     description:
       "Pagina de un sitio de videoJuegos, permite ver las ultimas noticias de los videosJuegos",
     githubLink: "https://github.com/Kevin31esder/Pagina-Videojuegos",
@@ -92,7 +92,7 @@ const Work = () => {
         initial="hidden"
         animate={control}
       >
-        Work Details
+       Proyectos
       </MainTitle>
       <ProjectsContainer
         as={motion.ul}
