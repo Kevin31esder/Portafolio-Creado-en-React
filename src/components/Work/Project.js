@@ -19,7 +19,7 @@ const Project = (props) => {
         <Title>{name}</Title>
         <ButtonsContainer>
           <PrimaryButton as={motion.a} href={websiteUrl} target="_blank">
-            View Live
+           Ver Pagina
           </PrimaryButton>
           <SecondaryButton as={motion.a} href={githubLink} target="_blank">
             Github
