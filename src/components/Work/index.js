@@ -18,7 +18,7 @@ const projectsList = [
     id: uuidv4(),
     name: "Pokedex",
     previewUrl:
-      "/images/6.jpg",
+      "https://res.cloudinary.com/dkyhypzyp/image/upload/v1668803973/1_u2iobl.jpg",
     description:
       "Buscador de pokemon donde podra ver las estadisticas de su pokemon favorito.",
     githubLink: "https://github.com/Kevin31esder/Pokedex",
