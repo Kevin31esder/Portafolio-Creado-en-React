@@ -40,7 +40,7 @@ const Skills = () => {
         initial="hidden"
         animate={control}
       >
-        Mi Skills
+        Mis Skills
       </Title>
       <SkillsContainer
         as={motion.div}
