@@ -84,7 +84,7 @@ const Contact = () => {
           ></iframe>
         </ImageContainer>
         <Form
-          action="https://formspree.io/f/mgeqagzy"
+          action="https://formspree.io/f/xlevkeon"
           method="POST"
           as={motion.form}
           ref={ref}
@@ -109,7 +109,7 @@ const Contact = () => {
                 <Socials>GitHub</Socials>
               </span>
             </GithubButton>
-            {/* https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=saitejadevineni@gmail.com */}
+           
             <GmailButton
               href="mailto:kevin55esder@gmail.com?subject=Important!&body=Hi"
               target="_blank"
