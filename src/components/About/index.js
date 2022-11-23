@@ -103,11 +103,12 @@ const About = () => {
             initial="hidden"
             animate={control}
           >
-            Dichos conocimientos fueron adquiridos como autodidacta ya que es un
-            tema que siempre me ha apasionado y he aprendido a lo largo del
-            tiempo, además de tener también cursos certificados por google,
-            udemy, Actualmente estoy ampliando mis
-            conocimientos de programación y ingles.
+           Tengo un año aproximadamente trabajando en proyectos con React,
+ React Native y Node JS. Quiero seguir especializándome en estas
+ últimas tecnologías y así seguir adquiriendo más experiencia,
+ siempre abierto a aprender.
+ Me gusta trabajar en equipo, me gusta el análisis y la resolución de
+problemas más allá de sólo programar.
           </ByteText>
         </TextContainer>
       </Card>
