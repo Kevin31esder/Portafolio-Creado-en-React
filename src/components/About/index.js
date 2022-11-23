@@ -70,7 +70,7 @@ const About = () => {
             variants={scrollMotionAnime}
             initial="hidden"
             animate={control}
-            href="https://drive.google.com/file/d/1JPcAKjvhFQhqQ8ub-XNmX3i2g-5nVV2h/view?usp=sharing"
+            href="https://drive.google.com/file/d/1mDnVDylMnPboPdSx9TSQ1myPZC1hRmNw/view?usp=sharing"
             download
             target="_blank"
           >
