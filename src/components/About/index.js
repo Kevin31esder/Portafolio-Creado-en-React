@@ -75,7 +75,7 @@ const About = () => {
             target="_blank"
           >
             <Span>
-              Descargar Resumen
+              Descargar CV
               <FileDownloadIcon
                 sx={{
                   fontSize: "1.1rem",
@@ -93,14 +93,8 @@ const About = () => {
             animate={control}
           >
             Soy egresado de la carrera de Ingeniería en Ciencias de los
-            Materiales de la Universidad Juárez del estado de Durango. Durante
-            mi formación profesional adquirí conocimientos útiles para el campo
-            de la programación, como habilidades matemáticas generales,
-            algoritmos, cálculo, entre otros , además de esto he aplicado mis
-            conocimientos de programación para automatización de procesos
-            repetitivos, asi como creación y mantenimiento de páginas web en
-            general tanto por la parte de front end, como la creación de bases
-            de datos relacionales y REST APIs.
+            Materiales de la Universidad Juárez del estado de Durango.Mientras cursaba mi carrera aprendiendo logica y matematicas en mi tiempo libre libre reforzaba mis conocimientos de programacion que habia tenido anteriormente
+            
           </ByteText>
           <ByteText
             as={motion.p}
@@ -112,8 +106,8 @@ const About = () => {
             Dichos conocimientos fueron adquiridos como autodidacta ya que es un
             tema que siempre me ha apasionado y he aprendido a lo largo del
             tiempo, además de tener también cursos certificados por google,
-            udemy, freecodecamp, entre otros. Actualmente estoy ampliando mis
-            conocimientos de programación y desarrollo de software.
+            udemy, Actualmente estoy ampliando mis
+            conocimientos de programación y ingles.
           </ByteText>
         </TextContainer>
       </Card>
