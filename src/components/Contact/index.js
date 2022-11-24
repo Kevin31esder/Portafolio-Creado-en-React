@@ -94,7 +94,7 @@ const Contact = () => {
         >
           <IconContainer>
             <ButtonIcon
-              href="https://www.linkedin.com/in/edwin-kevin-simental-frayre-09a6a9185/"
+              href="https://www.linkedin.com/in/edwin-kevin-simental-frayre-8170b4243/"
               target="_blank"
             >
               <span>
